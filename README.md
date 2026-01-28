@@ -18,11 +18,9 @@
 - 📚 **Tentix** - Smart exam prep for Chicago Selective Enrollment & Academic Centers — AI-powered question bank with OCR scanning
 - 🌐 **Kinspace** - Community platform for alterhuman identity exploration — messaging, profiles, AI-assisted content
 - 🎰 **[OddChips](https://oddchips.com)** - AI-powered apps platform with shared credit system
-- 🖨️ **HappyPrint** - AI sticker generation meets print-on-demand — text prompt to physical stickers via Gelato
+- 🖨️ **HappyPrint(https://happyprint.app)** - AI sticker generation meets print-on-demand — text prompt to physical stickers via Gelato
 - 📖 **[VibeDict](https://vibedict.com)** - Multilingual AI vocabulary notebook for macOS — definitions, translations & spaced repetition with Gemini
 - 📕 **[I Can Read Chinese](https://icanreadchinese.com)** - Chinese leveled reading platform for kids and learners
-- 🎓 **AP Chinese Prep** - Comprehensive AP Chinese Language & Culture exam preparation — reading, listening, speaking, writing
-- 🏠 **Orbit** - Home Operating System — smart home automation and monitoring
 
 ## Current Projects
 
