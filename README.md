@@ -78,12 +78,27 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@herr__kaefer-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/herr_kaefer)
+[![Twitter](https://img.shields.io/badge/-@herr__kaefer-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/herr_kaefer)
 [![Instagram](https://img.shields.io/badge/-@herrkaefer-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/herrkaefer)
 [![Blog](https://img.shields.io/badge/-herrkaefer.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://herrkaefer.com)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0-Enuf0AAAAJ)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/herrkaefer)
 
 ---
+
+<details>
+<summary>Selected Publications & Patents</summary>
+
+- **Gaze independent brain-computer speller with covert visual search tasks** — *Clinical Neurophysiology*, 2011 (111 citations)
+- **A novel task-oriented optimal design for P300-based brain-computer interfaces** — *Journal of Neural Engineering*, 2014 (52 citations)
+- **System and method for improving compliance with hand hygiene and PPE protocols** — US Patent 10,679,488, 2020 (62 citations)
+- **System and method for detecting hand hygiene compliance** — US Patent 10,403,121, 2019 (42 citations)
+- **Implementing an Electronic Hand Hygiene System Improved Compliance in the ICU** — *American Journal of Infection Control*, 2021 (14 citations)
+- **Effects of reminders from Sanibit electronic hand hygiene system on compliance** — *Journal of Hospital Infection*, 2025
+
+[Full list on Google Scholar](https://scholar.google.com/citations?user=0-Enuf0AAAAJ)
+
+</details>
 
 ### Philosophy
 
@@ -92,7 +107,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 <details>
 <summary>Random Facts</summary>
 
-- Published academic research in a past life
+- Published researcher in brain-computer interfaces & biomedical engineering
 - Bilingual builder — code and docs in English and Chinese
 - Arctic Code Vault Contributor
 - Photographs with a Ricoh GR IIIx (dreaming of a GR IV)
