@@ -1,6 +1,6 @@
 # Hi, I'm herrkaefer 👋
 
-📍 **Chicago, IL** | 🔬 **MicrosensorLabs** | 🛠️ **Builder of things that scratch the itch**
+📍 **Chicago, IL** | 🔥 **[MicrosensorLabs](https://microsensorlabs.com)** | **[Flamesilk LLC](https://flamesilk.com)** | 🛠️ **Builder of things that scratch the itch**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,6 +12,17 @@
 ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
 
 > "No problem is too small or too trivial if we can really do something about it." Just start building.
+
+## Flamesilk LLC (closed source)
+
+- 📚 **Tentix** - Smart exam prep for Chicago Selective Enrollment & Academic Centers — AI-powered question bank with OCR scanning
+- 🌐 **Kinspace** - Community platform for alterhuman identity exploration — messaging, profiles, AI-assisted content
+- 🎰 **[OddChips](https://oddchips.com)** - AI-powered apps platform with shared credit system
+- 🖨️ **HappyPrint** - AI sticker generation meets print-on-demand — text prompt to physical stickers via Gelato
+- 📖 **[VibeDict](https://vibedict.com)** - Multilingual AI vocabulary notebook for macOS — definitions, translations & spaced repetition with Gemini
+- 📕 **[I Can Read Chinese](https://icanreadchinese.com)** - Chinese leveled reading platform for kids and learners
+- 🎓 **AP Chinese Prep** - Comprehensive AP Chinese Language & Culture exam preparation — reading, listening, speaking, writing
+- 🏠 **Orbit** - Home Operating System — smart home automation and monitoring
 
 ## Current Projects
 
@@ -51,6 +62,7 @@
 
 ## What I'm Up To
 
+- **Building [Flamesilk](https://flamesilk.com)** - Education and AI products for families and learners
 - **Building AI-native macOS tools** - Voice input, local TTS, Markdown workflows
 - **Writing at [herrkaefer.com](https://herrkaefer.com)** - On building, home automation, and life in general
 - **Exploring local AI** - Running models on-device in Swift, no cloud required
@@ -79,5 +91,6 @@
 - Finds more peace in blogging than tweeting
 - Has a complex but honest relationship with AI as a collaborator
 - Once built a neural network from scratch just to understand it
+- Daughter made a ping-pong game with Claude + Cursor before learning to code
 
 </details>
