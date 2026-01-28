@@ -1,6 +1,6 @@
 # Hi, I'm herrkaefer 👋
 
-📍 **Chicago, IL** | 🔥 **[MicrosensorLabs](https://microsensorlabs.com)** | **[Flamesilk LLC](https://flamesilk.com)** | 🛠️ **Builder of things that scratch the itch**
+📍 **Chicago, IL** | 🔥 **[MicrosensorLabs](https://microsensorlabs.com)** | **[Flamesilk LLC](https://flamesilk.com)** | 🤖 **Agentic builder of things that scratch the itch**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -8,8 +8,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
+
+![Claude Code](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 > "No problem is too small or too trivial if we can really do something about it." Just start building.
 
@@ -25,8 +30,8 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## [Flamesilk LLC](https://flamesilk.com) (closed source)
 
-- 📚 **Tentix** - Smart exam prep for Chicago Selective Enrollment & Academic Centers — AI-powered question bank with OCR scanning
-- 🌐 **Kinspace** - Community platform for alterhuman identity exploration — messaging, profiles, AI-assisted content
+- 📚 **[Tentix](https://tentix.app)** - Smart exam prep for Chicago Selective Enrollment & Academic Centers — AI-powered question bank with OCR scanning
+- 🌐 **[Kinspace](https://kinspace.life)** - Community platform for alterhuman identity exploration — messaging, profiles, AI-assisted content
 - 🎰 **[OddChips](https://oddchips.com)** - AI-powered apps platform with shared credit system
 - 🖨️ **[HappyPrint](https://happyprint.app)** - AI sticker generation meets print-on-demand — text prompt to physical stickers via Gelato
 - 📖 **[VibeDict](https://vibedict.com)** - Multilingual AI vocabulary notebook for macOS — definitions, translations & spaced repetition with Gemini
@@ -38,7 +43,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 - 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown knowledge navigator — bird's-eye view across local folders
 - 🔊 **[SwiftKokoroONNX](https://github.com/herrkaefer/SwiftKokoroONNX)** - Pure Swift Kokoro TTS using local ONNX models
 - 🔈 **[SwiftEdgeTTS](https://github.com/herrkaefer/SwiftEdgeTTS)** - Microsoft Edge text-to-speech in pure Swift
-- 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality
+- 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon)
 - 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate 3D sticker sheets with Gemini AI
 - 🕹️ **[signal-vault-game](https://github.com/herrkaefer/signal-vault-game)** - Terminal stealth puzzle game born at an MCP Hackathon
 - 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for Chicago Public Schools grade monitoring
@@ -70,10 +75,11 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## What I'm Up To
 
+- **Building with coding agents** - Claude Code, Cursor, and custom Skills are my daily drivers
 - **Building [Flamesilk](https://flamesilk.com)** - Education and AI products for families and learners
 - **Building AI-native macOS tools** - Voice input, local TTS, Markdown workflows
+- **Exploring MCP & local AI** - Building MCP integrations and running models on-device in Swift
 - **Writing at [herrkaefer.com](https://herrkaefer.com)** - On building, home automation, and life in general
-- **Exploring local AI** - Running models on-device in Swift, no cloud required
 - **Shooting with a Ricoh GR** - Street photography when not at the keyboard
 
 ## Connect
