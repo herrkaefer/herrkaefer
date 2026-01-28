@@ -13,12 +13,22 @@
 
 > "No problem is too small or too trivial if we can really do something about it." Just start building.
 
-## Flamesilk LLC (closed source)
+## [MicrosensorLabs](https://microsensorlabs.com) (closed source)
+
+Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software across two product lines:
+
+- 🔬 **MagiCyte MB Imaging** - Computer vision pipeline for identifying microbial colonies in imaged samples — Python, 1,400+ commits
+- 🧫 **MagiCyte SC Algorithm** - Single-cell analysis algorithms with simulation and real-time MQTT processing — Python/Jupyter
+- ⌚ **Sanibit Wristband** - BLE wearable firmware for hospital hand hygiene compliance — C/C++, 1,500+ commits
+- 📡 **Sanibit Controller** - ESP32 & Dialog microcontroller firmware for dispensing detection and wristband communication — C, 1,900+ commits
+- 🔧 **Sanibit Tools** - BLE debuggers, OTA firmware updater, and serial flashing utilities — C/Python
+
+## [Flamesilk LLC](https://flamesilk.com) (closed source)
 
 - 📚 **Tentix** - Smart exam prep for Chicago Selective Enrollment & Academic Centers — AI-powered question bank with OCR scanning
 - 🌐 **Kinspace** - Community platform for alterhuman identity exploration — messaging, profiles, AI-assisted content
 - 🎰 **[OddChips](https://oddchips.com)** - AI-powered apps platform with shared credit system
-- 🖨️ **HappyPrint(https://happyprint.app)** - AI sticker generation meets print-on-demand — text prompt to physical stickers via Gelato
+- 🖨️ **[HappyPrint](https://happyprint.app)** - AI sticker generation meets print-on-demand — text prompt to physical stickers via Gelato
 - 📖 **[VibeDict](https://vibedict.com)** - Multilingual AI vocabulary notebook for macOS — definitions, translations & spaced repetition with Gemini
 - 📕 **[I Can Read Chinese](https://icanreadchinese.com)** - Chinese leveled reading platform for kids and learners
 
