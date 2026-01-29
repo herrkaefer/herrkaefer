@@ -47,20 +47,20 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 - 🔊 **[SwiftKokoroONNX](https://github.com/herrkaefer/SwiftKokoroONNX)** - Pure Swift Kokoro TTS using local ONNX models
 - 🔈 **[SwiftEdgeTTS](https://github.com/herrkaefer/SwiftEdgeTTS)** - Microsoft Edge text-to-speech in pure Swift
 - 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon)
+- 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for grade monitoring, built for Chicago Public Schools Parents
+- 🧰 **[finder-toolbar-apps](https://github.com/herrkaefer/finder-toolbar-apps)** - Tiny macOS apps for your Finder toolbar — open in Cursor, iTerm, Sublime, and more
 - 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate 3D sticker sheets with Gemini AI
 - 🕹️ **[signal-vault-game](https://github.com/herrkaefer/signal-vault-game)** - Terminal stealth puzzle game born at an MCP Hackathon
-- 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for grade monitoring, built for Chicago Public Schools Parents
-- 🧹 **[cleanup-tabs](https://github.com/herrkaefer/cleanup-tabs)** - Chrome extension to close tabs in bulk by URL pattern
-- 🧰 **[finder-toolbar-apps](https://github.com/herrkaefer/finder-toolbar-apps)** - Tiny macOS apps for your Finder toolbar — open in Cursor, iTerm, Sublime, and more
 - 👶 **[face-fusion-stylegan2](https://github.com/herrkaefer/face-fusion-stylegan2)** - Predict what your kid might look like with StyleGAN2
+- 🧹 **[cleanup-tabs](https://github.com/herrkaefer/cleanup-tabs)** - Chrome extension to close tabs in bulk by URL pattern
 
 ## Earlier Work
 
-- 📋 **[CaseAssistant](https://github.com/herrkaefer/CaseAssistant)** - iOS ophthalmology case management app (131 ⭐)
+- 🧬 **[libevol](https://github.com/herrkaefer/libevol)** - Evolutionary computation framework in pure C
+- 📋 **[CaseAssistant](https://github.com/herrkaefer/CaseAssistant)** - iOS ophthalmology case management app
 - 🗺️ **[psycopgr](https://github.com/herrkaefer/psycopgr)** - Python wrapper for pgRouting on real-world maps
 - 📡 **[AccelerateWatch](https://github.com/herrkaefer/AccelerateWatch)** - FFT & FIR filters for watchOS, powered by Accelerate framework
 - ✍️ **[chinese-calligraphy-vectorization](https://github.com/herrkaefer/chinese-calligraphy-vectorization)** - Vectorize Chinese calligraphy characters and generate custom copybooks
-- 🧬 **[libevol](https://github.com/herrkaefer/libevol)** - Evolutionary computation framework in pure C
 - 🚛 **[elastic-routing](https://github.com/herrkaefer/elastic-routing)** - Vehicle routing solver in C
 - 🧭 **[travelling-planner](https://github.com/herrkaefer/travelling-planner)** - Optimal trip planning by solving TSP
 - 🧠 **[nnet](https://github.com/herrkaefer/nnet)** - Neural networks with back-propagation from scratch
