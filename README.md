@@ -49,7 +49,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 - 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon)
 - 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate 3D sticker sheets with Gemini AI
 - 🕹️ **[signal-vault-game](https://github.com/herrkaefer/signal-vault-game)** - Terminal stealth puzzle game born at an MCP Hackathon
-- 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for Chicago Public Schools grade monitoring
+- 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for grade monitoring, built for Chicago Public Schools Parents
 - 🧹 **[cleanup-tabs](https://github.com/herrkaefer/cleanup-tabs)** - Chrome extension to close tabs in bulk by URL pattern
 - 🧰 **[finder-toolbar-apps](https://github.com/herrkaefer/finder-toolbar-apps)** - Tiny macOS apps for your Finder toolbar — open in Cursor, iTerm, Sublime, and more
 - 👶 **[face-fusion-stylegan2](https://github.com/herrkaefer/face-fusion-stylegan2)** - Predict what your kid might look like with StyleGAN2
