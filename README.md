@@ -109,20 +109,14 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 </details>
 
-### Philosophy
-
-> "No problem is too small or too trivial if we can really do something about it." — I build tools that solve my own problems, one itch at a time. From ophthalmology apps to terminal games to voice-powered dictation — if it can be built, it should be.
-
 <details>
 <summary>Random Facts</summary>
 
 - Published researcher in brain-computer interfaces & biomedical engineering
 - Bilingual builder — code and docs in English and Chinese
-- Arctic Code Vault Contributor
 - Photographs with a Ricoh GR IIIx (dreaming of a GR IV)
-- Finds more peace in blogging than tweeting
+- Finds more peace in blogging, but have become more active on X recently
 - Has a complex but honest relationship with AI as a collaborator
-- Once built a neural network from scratch just to understand it
-- Daughter made a ping-pong game with Claude + Cursor before learning to code
+- Vibe coding with my daughter occasionally in Google AI Studio
 
 </details>
