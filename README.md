@@ -43,6 +43,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## Current Projects
 
+- 🎻 **[ziqi](https://github.com/herrkaefer/ziqi)** - Browser-based rhythm game for cello with real-time pitch detection — [play online](https://ziqi-4j8.pages.dev/)
 - 🎙️ **[micpipe](https://github.com/herrkaefer/micpipe)** - macOS voice input via ChatGPT & Gemini — hold a key, speak, paste anywhere
 - 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown knowledge navigator — bird's-eye view across local folders
 - 🔊 **[SwiftKokoroONNX](https://github.com/herrkaefer/SwiftKokoroONNX)** - Pure Swift Kokoro TTS using local ONNX models
