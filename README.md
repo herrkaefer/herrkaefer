@@ -43,7 +43,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## Current Projects
 
-- 🦀 **[tinymolty](https://github.com/herrkaefer/tinymolty)** - A easy setup, safe, low cost agent for [moltbook](https://moltbook.com).
+- 🦀 **[tinymolty](https://github.com/herrkaefer/tinymolty)** - A easy setup, safe, low cost social agent for [moltbook](https://moltbook.com).
 - 🎻 **[ziqi](https://github.com/herrkaefer/ziqi)** - Browser-based rhythm game for cello with real-time pitch detection — [play online](https://ziqi-4j8.pages.dev/)
 - 🎙️ **[micpipe](https://github.com/herrkaefer/micpipe)** - macOS voice input via ChatGPT & Gemini — hold a key, speak, paste anywhere
 - 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown library — A lightweight, pure-Swift alternative to Obsidian.
