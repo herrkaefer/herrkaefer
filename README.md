@@ -79,9 +79,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/herrkaefer)
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herrkaefer&theme=nord_dark)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=herrkaefer&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herrkaefer&theme=nord_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herrkaefer&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herrkaefer&theme=nord_dark)
 
 ## What I'm Up To
 
