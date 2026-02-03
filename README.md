@@ -80,8 +80,8 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herrkaefer&theme=nord_dark" width="600" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herrkaefer&theme=nord_dark" width="200" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herrkaefer&theme=nord_dark" height="200" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herrkaefer&theme=nord_dark" height="200" /></td>
   </tr>
 </table>
 
