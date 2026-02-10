@@ -43,6 +43,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## Current Projects
 
+- 🎙️ **[any-podcast](https://github.com/herrkaefer/any-podcast)** - Make podcast from RSS, newsletters, and any URL. Deployed on Cloudfalare workflow. [Demo podcast](https://spectrum-podcast.oddchips.com/)
 - 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🦀 **[tinymolty](https://github.com/herrkaefer/tinymolty)** - A easy setup, safe, low cost social agent for [moltbook](https://moltbook.com).
 - 🎻 **[ziqi](https://github.com/herrkaefer/ziqi)** - Browser-based rhythm game for cello with real-time pitch detection — [play online](https://ziqi-4j8.pages.dev/)
