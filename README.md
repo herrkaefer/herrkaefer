@@ -43,9 +43,10 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## Current Projects
 
+- 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.)
+- 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🎙️ **[any-podcast](https://github.com/herrkaefer/any-podcast)** - Make podcast from RSS, newsletters, and any URL. Deployed on Cloudflare workflow. [Demo podcast](https://spectrum-podcast-en.oddchips.com/)
 - 💬 **[anocus](https://github.com/herrkaefer/anocus)** - Plug-and-play anonymous commenting system for static sites — Turnstile anti-bot, GitHub Discussions/KV storage, threaded replies
-- 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🦀 **[tinymolty](https://github.com/herrkaefer/tinymolty)** - A easy setup, safe, low cost social agent for [moltbook](https://moltbook.com).
 - 🎻 **[ziqi](https://github.com/herrkaefer/ziqi)** - Browser-based rhythm game for cello with real-time pitch detection — [play online](https://ziqi-4j8.pages.dev/)
 - 🎙️ **[micpipe](https://github.com/herrkaefer/micpipe)** - macOS voice input via ChatGPT & Gemini — hold a key, speak, paste anywhere
@@ -55,8 +56,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 - 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon project)
 - 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for grade monitoring, built for Chicago Public Schools Parents
 - 🧰 **[finder-toolbar-apps](https://github.com/herrkaefer/finder-toolbar-apps)** - Tiny macOS apps for your Finder toolbar — open in Cursor, iTerm, Sublime, and more
-- 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate 3D sticker sheets with Gemini AI
-- 🕹️ **[signal-vault-game](https://github.com/herrkaefer/signal-vault-game)** - Terminal stealth puzzle game born at an MCP Hackathon
+- 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate sticker sheets with nano banana pro
 - 👶 **[face-fusion-stylegan2](https://github.com/herrkaefer/face-fusion-stylegan2)** - Predict what your kid might look like with StyleGAN2
 - 🧹 **[cleanup-tabs](https://github.com/herrkaefer/cleanup-tabs)** - Chrome extension to close tabs in bulk by URL pattern
 
