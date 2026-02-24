@@ -45,13 +45,13 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 - 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.)
 - 📝 **[Swift2MD](https://github.com/herrkaefer/Swift2MD)** - Lightweight Swift package and CLI for converting URLs or multiple-format documents into Markdown via Cloudflare Workers AI
+- 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown library — A lightweight, pure-Swift alternative to Obsidian, powered by a native LLM agent (SwiftAgentCore) and tailored tools
 - 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🎙️ **[any-podcast](https://github.com/herrkaefer/any-podcast)** - Make podcast from RSS, newsletters, and any URL. Deployed on Cloudflare workflow. [Demo podcast](https://spectrum-podcast-en.oddchips.com/)
 - 💬 **[anocus](https://github.com/herrkaefer/anocus)** - Plug-and-play anonymous commenting system for static sites — Turnstile anti-bot, GitHub Discussions/KV storage, threaded replies
 - 🦞 **[tinymolty](https://github.com/herrkaefer/tinymolty)** - A easy setup, safe, low cost social agent for [moltbook](https://moltbook.com).
 - 🎻 **[ziqi](https://github.com/herrkaefer/ziqi)** - Browser-based rhythm game for cello with real-time pitch detection — [play online](https://ziqi-4j8.pages.dev/)
 - 🎙️ **[micpipe](https://github.com/herrkaefer/micpipe)** - macOS voice input via ChatGPT & Gemini — hold a key, speak, paste anywhere
-- 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown library — A lightweight, pure-Swift alternative to Obsidian.
 - 🔈 **[SwiftEdgeTTS](https://github.com/herrkaefer/SwiftEdgeTTS)** - Microsoft Edge text-to-speech in pure Swift
 - 🔊 **[SwiftKokoroONNX](https://github.com/herrkaefer/SwiftKokoroONNX)** - Pure Swift Kokoro TTS using local ONNX models
 - 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon project)
