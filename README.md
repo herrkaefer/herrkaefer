@@ -44,6 +44,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 ## Current Projects
 
 - 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.)
+- 📝 **[Swift2MD](https://github.com/herrkaefer/Swift2MD)** - Lightweight Swift package and CLI for converting URLs or multiple-format documents into Markdown via Cloudflare Workers AI
 - 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🎙️ **[any-podcast](https://github.com/herrkaefer/any-podcast)** - Make podcast from RSS, newsletters, and any URL. Deployed on Cloudflare workflow. [Demo podcast](https://spectrum-podcast-en.oddchips.com/)
 - 💬 **[anocus](https://github.com/herrkaefer/anocus)** - Plug-and-play anonymous commenting system for static sites — Turnstile anti-bot, GitHub Discussions/KV storage, threaded replies
