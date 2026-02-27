@@ -44,9 +44,9 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## Current Projects
 
-- 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** ![SPI](https://img.shields.io/badge/SPI-compatible-orange?style=flat-square&logo=swift&logoColor=white) - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.)
-- 🐍 **[anything2md](https://github.com/herrkaefer/anything2md)** ![PyPI](https://img.shields.io/badge/PyPI-anything2md-blue?style=flat-square&logo=pypi&logoColor=white) - Python package and CLI for converting documents (PDF, images, etc.) or URLs to Markdown via Cloudflare Workers AI
-- 📝 **[Swift2MD](https://github.com/herrkaefer/Swift2MD)** ![SPI](https://img.shields.io/badge/SPI-compatible-orange?style=flat-square&logo=swift&logoColor=white) - Lightweight Swift package and CLI for converting URLs or multiple-format documents into Markdown via Cloudflare Workers AI
+- 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.) ![SPI](https://img.shields.io/badge/SPI-orange?style=flat-square&logo=swift&logoColor=white)
+- 🐍 **[anything2md](https://github.com/herrkaefer/anything2md)** - Python package and CLI for converting documents (PDF, images, etc.) or URLs to Markdown via Cloudflare Workers AI ![PyPI](https://img.shields.io/badge/pypi-blue?style=flat-square&logo=pypi&logoColor=white)
+- 📝 **[Swift2MD](https://github.com/herrkaefer/Swift2MD)** - Lightweight Swift package and CLI for converting URLs or multiple-format documents into Markdown via Cloudflare Workers AI ![SPI](https://img.shields.io/badge/SPI-orange?style=flat-square&logo=swift&logoColor=white)
 - 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown library — A lightweight, pure-Swift alternative to Obsidian, powered by a native LLM agent (SwiftAgentCore) and tailored tools
 - 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🎙️ **[any-podcast](https://github.com/herrkaefer/any-podcast)** - Make podcast from RSS, newsletters, and any URL. Deployed on Cloudflare workflow. [Demo podcast](https://spectrum-podcast-en.oddchips.com/)
@@ -54,7 +54,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 - 🦞 **[tinymolty](https://github.com/herrkaefer/tinymolty)** - A easy setup, safe, low cost social agent for [moltbook](https://moltbook.com).
 - 🎻 **[ziqi](https://github.com/herrkaefer/ziqi)** - Browser-based rhythm game for cello with real-time pitch detection — [play online](https://ziqi-4j8.pages.dev/)
 - 🎙️ **[micpipe](https://github.com/herrkaefer/micpipe)** - macOS voice input via ChatGPT & Gemini — hold a key, speak, paste anywhere
-- 🔈 **[SwiftEdgeTTS](https://github.com/herrkaefer/SwiftEdgeTTS)** ![SPI](https://img.shields.io/badge/SPI-compatible-orange?style=flat-square&logo=swift&logoColor=white) - Microsoft Edge text-to-speech in pure Swift
+- 🔈 **[SwiftEdgeTTS](https://github.com/herrkaefer/SwiftEdgeTTS)** - Microsoft Edge text-to-speech in pure Swift ![SPI](https://img.shields.io/badge/SPI-orange?style=flat-square&logo=swift&logoColor=white)
 - 🔊 **[SwiftKokoroONNX](https://github.com/herrkaefer/SwiftKokoroONNX)** - Pure Swift Kokoro TTS using local ONNX models
 - 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon project)
 - 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for grade monitoring, built for Chicago Public Schools Parents
@@ -67,7 +67,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 - 🧬 **[libevol](https://github.com/herrkaefer/libevol)** - Evolutionary computation framework in pure C
 - 📋 **[CaseAssistant](https://github.com/herrkaefer/CaseAssistant)** - iOS ophthalmology case management app
-- 🗺️ **[psycopgr](https://github.com/herrkaefer/psycopgr)** ![PyPI](https://img.shields.io/badge/PyPI-psycopgr-blue?style=flat-square&logo=pypi&logoColor=white) - Python wrapper for pgRouting on real-world maps
+- 🗺️ **[psycopgr](https://github.com/herrkaefer/psycopgr)** - Python wrapper for pgRouting on real-world maps ![PyPI](https://img.shields.io/badge/pypi-blue?style=flat-square&logo=pypi&logoColor=white)
 - 📡 **[AccelerateWatch](https://github.com/herrkaefer/AccelerateWatch)** - FFT & FIR filters for watchOS, powered by Accelerate framework
 - ✍️ **[chinese-calligraphy-vectorization](https://github.com/herrkaefer/chinese-calligraphy-vectorization)** - Vectorize Chinese calligraphy characters and generate custom copybooks
 - 🚛 **[elastic-routing](https://github.com/herrkaefer/elastic-routing)** - Vehicle routing solver in C
