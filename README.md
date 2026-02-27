@@ -19,6 +19,7 @@
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Skills](https://img.shields.io/badge/-Skills-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Pi-Mono](https://img.shields.io/badge/-Pi_Mono-000000?style=flat-square&logo=raspberrypi&logoColor=white)
 
 > "No problem is too small or too trivial if we can really do something about it." Just start building.
 
