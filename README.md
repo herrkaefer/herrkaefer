@@ -45,6 +45,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 - 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.)
 - 📝 **[Swift2MD](https://github.com/herrkaefer/Swift2MD)** - Lightweight Swift package and CLI for converting URLs or multiple-format documents into Markdown via Cloudflare Workers AI
+- 🐍 **[anything2md](https://github.com/herrkaefer/anything2md)** - Python package and CLI for converting documents (PDF, images, etc.) or URLs to Markdown via Cloudflare Workers AI
 - 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown library — A lightweight, pure-Swift alternative to Obsidian, powered by a native LLM agent (SwiftAgentCore) and tailored tools
 - 🤖 **[herrkaefer-skills](https://github.com/herrkaefer/herrkaefer-skills)** - Agent Skills shared for improving coding efficiency and productivity with Claude Code and openAI codex. [skills.sh](https://skills.sh/trending?q=herrkaefer)
 - 🎙️ **[any-podcast](https://github.com/herrkaefer/any-podcast)** - Make podcast from RSS, newsletters, and any URL. Deployed on Cloudflare workflow. [Demo podcast](https://spectrum-podcast-en.oddchips.com/)
