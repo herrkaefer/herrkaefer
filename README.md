@@ -45,6 +45,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 ## Current Projects
 
 - 🤖 **[SwiftAgentCore](https://github.com/herrkaefer/SwiftAgentCore)** - Swift agent runtime with built-in tool execution, skill support, and a unified multi-provider LLM layer (OpenAI, Anthropic, Gemini, MiniMax, etc.) ![SPI](https://img.shields.io/badge/SPI-orange?style=flat-square&logo=swift&logoColor=white)
+- ☃️ **[Snowman](https://github.com/herrkaefer/snowman)** - An always-ready home voice agent for Raspberry Pi with natural voice conversations (OpenAI Realtime API), wake-word activation, local tools, and evolving memory
 - 🐍 **[anything2md](https://github.com/herrkaefer/anything2md)** - Python package and CLI for converting documents (PDF, images, etc.) or URLs to Markdown via Cloudflare Workers AI ![PyPI](https://img.shields.io/badge/pypi-blue?style=flat-square&logo=pypi&logoColor=white)
 - 📝 **[Swift2MD](https://github.com/herrkaefer/Swift2MD)** - Lightweight Swift package and CLI for converting URLs or multiple-format documents into Markdown via Cloudflare Workers AI ![SPI](https://img.shields.io/badge/SPI-orange?style=flat-square&logo=swift&logoColor=white)
 - 🗂️ **[Mai](https://github.com/herrkaefer/mai-releases)** - Native macOS Markdown library — A lightweight, pure-Swift alternative to Obsidian, powered by a native LLM agent (SwiftAgentCore) and tailored tools
