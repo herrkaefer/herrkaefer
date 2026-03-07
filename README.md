@@ -60,15 +60,15 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 - 🗣️ **[vibe-narrator](https://github.com/herrkaefer/vibe-narrator)** - Give your terminal agents a voice and a personality (Hugging Face MCP Hackathon project)
 - 🤖 **[aspen-bot](https://github.com/herrkaefer/aspen-bot)** - Telegram bot for grade monitoring, built for Chicago Public Schools Parents
 - 🧰 **[finder-toolbar-apps](https://github.com/herrkaefer/finder-toolbar-apps)** - Tiny macOS apps for your Finder toolbar — open in Cursor, iTerm, Sublime, and more
-- 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate sticker sheets with nano banana pro
 - 👶 **[face-fusion-stylegan2](https://github.com/herrkaefer/face-fusion-stylegan2)** - Predict what your kid might look like with StyleGAN2
 - 🧹 **[cleanup-tabs](https://github.com/herrkaefer/cleanup-tabs)** - Chrome extension to close tabs in bulk by URL pattern
 
 ## Earlier Work
 
 - 🧬 **[libevol](https://github.com/herrkaefer/libevol)** - Evolutionary computation framework in pure C
-- 📋 **[CaseAssistant](https://github.com/herrkaefer/CaseAssistant)** - iOS ophthalmology case management app
 - 🗺️ **[psycopgr](https://github.com/herrkaefer/psycopgr)** - Python wrapper for pgRouting on real-world maps ![PyPI](https://img.shields.io/badge/pypi-blue?style=flat-square&logo=pypi&logoColor=white)
+- 🎨 **[sticker-genius](https://github.com/herrkaefer/sticker-genius)** - Generate sticker sheets with nano banana pro
+- 📋 **[CaseAssistant](https://github.com/herrkaefer/CaseAssistant)** - iOS ophthalmology case management app
 - 📡 **[AccelerateWatch](https://github.com/herrkaefer/AccelerateWatch)** - FFT & FIR filters for watchOS, powered by Accelerate framework
 - ✍️ **[chinese-calligraphy-vectorization](https://github.com/herrkaefer/chinese-calligraphy-vectorization)** - Vectorize Chinese calligraphy characters and generate custom copybooks
 - 🚛 **[elastic-routing](https://github.com/herrkaefer/elastic-routing)** - Vehicle routing solver in C
