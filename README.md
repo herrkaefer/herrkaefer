@@ -35,6 +35,7 @@ Healthcare sensor technology startup (NIH/NSF/DoD funded). I lead software acros
 
 ## [Flamesilk LLC](https://flamesilk.com) (closed source)
 
+- 🧃[AppJuice](https://herrkaefer.github.io/appjuice-releases/) - a cross-platform AI app platform — a personal software factory where anyone can create, run, and share apps through natural language conversation, with no coding required.
 - 📚 **[Tentix](https://tentix.app)** - Smart exam prep for Chicago Selective Enrollment & Academic Centers — AI-powered question bank with OCR scanning
 - 🌐 **[Kinspace](https://kinspace.life)** - Community platform for alterhuman identity exploration — messaging, profiles, AI-assisted content
 - 🎰 **[OddChips](https://oddchips.com)** - AI-powered apps platform with shared credit system
